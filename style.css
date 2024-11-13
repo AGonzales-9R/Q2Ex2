@@ -1,0 +1,32 @@
+* {
+
+}
+
+/*style for body*/
+body {
+	background-image: url(background.jpg);
+	background-size: 100%;
+	font-family: "Sour Gummy", serif;
+	font-optical-sizing: auto;
+ 	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+    "wdth" 100;
+}
+
+/*style for image*/
+img {
+	width: 75%;
+}
+
+/*style for anchor*/
+a {
+	color: darkmagenta;
+}
+
+/*style for container*/
+.container {
+	background-color: lightpink;
+	color: black;
+}
+
